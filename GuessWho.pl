@@ -15,7 +15,7 @@ use SDLx::Text;
 use SDLx::Sprite;
 use SDLx::Widget::Menu;
 use GWNN::Entity;
-use SDL::Mixer::Music;
+#use SDL::Mixer::Music;
 use Time::HiRes qw( usleep );
 
 $| = 1;
