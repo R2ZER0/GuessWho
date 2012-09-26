@@ -1,0 +1,6 @@
+(
+    { text => 'Player 1 has killed player 2!', type => 'plain' },
+    { text => 'Player 1, congratulations.', type => 'plain' },
+    { text => 'We will be in touch shortly.', type =>  'plain' },
+    { type => 'finish' }
+)

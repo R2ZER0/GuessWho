@@ -1,0 +1,6 @@
+(
+    { text => 'Player 2 Has failed!', type => 'plain' },
+    { text => 'Playey 1, congratulations.', type => 'plain' },
+    { text => 'We will be in touch shortly.', type =>  'plain' },
+    { type => 'finish' }
+)
